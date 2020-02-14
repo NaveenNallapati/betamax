@@ -51,3 +51,4 @@ Please get in touch if you have any  feedback. You can raise defects and feature
 
 Go to _Settings -> Compiler_ and ensure that `*.keystore` appears in the _Resource patterns_ otherwise IDEA will not
 make the SSL keystore available on the classpath when tests run.
+
